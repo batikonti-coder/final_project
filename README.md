@@ -5,8 +5,8 @@ Final version of our travel website **Batyrkhan Travels** (midterm → endterm �
 The topic, the 5 pages, Bootstrap layout and all earlier features (validation, jQuery, favorites, theme) still work.
 The final stage adds live API data, classes, more localStorage and advanced features.
 
-* **Live website:** https://batikonti-coder.github.io/endterm_project/
-* **Repository:** https://github.com/batikonti-coder/endterm_project
+* **Live website:** https://batikonti-coder.github.io/final_project/
+* **Repository:** https://github.com/batikonti-coder/final_project.git
 
 ## Team
 * **Батырхан** — Group SE-2524 — all pages, JavaScript, jQuery, form validation, final features
